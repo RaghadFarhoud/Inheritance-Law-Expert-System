@@ -1,4 +1,4 @@
-# Islamic Inheritance Expert System
+# Inheritance Expert System
 
 A rule-based expert system written in Python that calculates inheritance shares (*Fara'id*) under Islamic law, based on the family members the deceased left behind. It is built with [Experta](https://github.com/nilp0inter/experta), a Python library for building expert systems (a port of CLIPS).
 
